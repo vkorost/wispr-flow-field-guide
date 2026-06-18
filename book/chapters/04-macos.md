@@ -1,4 +1,4 @@
-# macOS
+# Chapter 4: macOS
 
 *In this chapter you will learn why Accessibility permission is the single gate that controls whether Wispr Flow works or silently fails on your Mac, how to install the correct build for your hardware, and what to do when a system update resets the permissions you already granted.*
 

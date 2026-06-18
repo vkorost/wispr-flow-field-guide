@@ -1,4 +1,4 @@
-# Privacy, Security, and Your Data
+# Chapter 21: Privacy, Security, and Your Data
 
 *In this chapter: every word you dictate crosses a network boundary. This chapter maps what happens to your audio once it leaves the device, what controls exist to limit retention and training use, and where the documented guarantees end. The Cloud Boundary is the frame for deciding what to say and what to type.*
 

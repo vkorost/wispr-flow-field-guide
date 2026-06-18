@@ -1,4 +1,4 @@
-# Windows
+# Chapter 3: Windows
 
 *In this chapter, you meet the Windows build of Wispr Flow and the resource cost it carries. Setup is simpler than on macOS because Windows asks for fewer permissions, but the Electron runtime underneath means higher RAM, higher CPU, and occasional friction with the apps you are dictating into. This chapter covers installation, permissions, hotkeys, data locations, and what to expect from the platform that trades polish for reach.*
 

@@ -9,7 +9,7 @@
 3. "Supported devices and system requirements," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/1036674442-supported-devices-and-system-requirements, accessed Q2 2026.
 4. "Set up the Action Button for Flow on iPhone," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/4500510662-set-up-the-action-button-for-flow-on-iphone, accessed Q2 2026.
 
-## The Dictation Model
+## Chapter 2: The Dictation Model
 
 1. "Starting your first dictation," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/6409258247-starting-your-first-dictation, accessed Q2 2026.
 2. "Use Flow hands-free," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/6391241694-use-flow-hands-free, accessed Q2 2026.
@@ -17,7 +17,7 @@
 4. "Longer dictation sessions - now up to 20 minutes," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/4841123325-longer-dictation-sessions-now-up-to-20-minutes, accessed Q2 2026.
 5. "Dictation session time limits on Android," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/2312866822-dictation-session-time-limits-on-android, accessed Q2 2026.
 
-## Windows
+## Chapter 3: Windows
 
 1. "Setup Guide," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/3152211871-setup-guide, accessed Q2 2026.
 2. "Supported devices and system requirements," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/1036674442-supported-devices-and-system-requirements, accessed Q2
@@ -29,7 +29,7 @@
 8. "Completely removing Wispr Flow from your device," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/3884018196-completely-removing-wispr-flow-from-your-device, accessed Q2 2026.
 9. "Reset and restart the Wispr Flow app," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/2999006910-reset-and-restart-the-wispr-flow-app, accessed Q2 2026.
 
-## macOS
+## Chapter 4: macOS
 
 1. "How to install Wispr Flow on Mac," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/7682075140-how-to-install-wispr-flow-on-mac, accessed Q2 2026.
 2. "What to do if the app doesn't start up after signing in and clicking 'Open Wispr Flow'," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/2809372297-what-to-do-if-the-app-doesn-t-start-up-after-signing-in-and-clicking-open-wispr-flow, accessed Q2 2026.
@@ -38,7 +38,7 @@
 5. "Supported & Unsupported Keyboard Hotkey Shortcuts," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/2612050838-supported-unsupported-keyboard-hotkey-shortcuts, accessed Q2 2026.
 6. "Completely removing Wispr Flow from your device," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/3884018196-completely-removing-wispr-flow-from-your-device, accessed Q2 2026.
 
-## iPhone (iOS)
+## Chapter 5: iPhone (iOS)
 
 1. "Set up the Flow keyboard on iPhone," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/7453988911-set-up-the-flow-keyboard-on-iphone, accessed Q2 2026.
 2. "Set up the Action Button for Flow on iPhone," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/4500510662-set-up-the-action-button-for-flow-on-iphone, accessed Q2 2026.
@@ -49,7 +49,7 @@
 7. "Find Your Hide My Email Addresses on iPhone," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/1410486313-find-your-hide-my-email-addresses-on-iphone, accessed Q2 2026.
 8. "Restore purchases on Wispr Flow for iOS," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/6026477326-restore-purchases-on-wispr-flow-for-ios, accessed Q2 2026.
 
-## Android
+## Chapter 6: Android
 
 1. "Android Download & Installation Guide," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/2809924024-android-download-installation-guide, accessed Q2 2026.
 2. "Fake Android Apps Impersonating Wispr Flow," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/6573848530-fake-android-apps-impersonating-wispr-flow, accessed Q2 2026.
@@ -64,29 +64,29 @@
 11. "Snooze the Dictation Bubble," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/3400534884-snooze-the-dictation-bubble, accessed Q2 2026.
 12. "Switching accounts on Android," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/1846165703-switching-accounts-on-android, accessed Q2 2026.
 
-## The Cleanup Engine
+## Chapter 7: The Cleanup Engine
 
 1. "How to Use Auto Cleanup (Beta)," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/4136931124-how-to-use-auto-cleanup-beta, accessed Q2 2026.
 2. "How do I use Smart Formatting & Backtrack," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/5373093536-how-do-i-use-smart-formatting-and-backtrack, accessed Q2 2026.
 
-## Command Mode and Transforms
+## Chapter 8: Command Mode and Transforms
 
 1. "How to use Command Mode," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/4816967992-how-to-use-command-mode, accessed Q2 2026.
 2. "How to Use Transforms (Beta)," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/8068950331-how-to-use-transforms-beta, accessed Q2 2026.
 
-## Context Awareness
+## Chapter 9: Context Awareness
 
 1. "Context Awareness," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/4678293671-feature-context-awareness, accessed Q2 2026.
 2. "Security and compliance FAQ," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/3467817258-security-and-compliance-faq, accessed Q2 2026.
 3. "Use Flow with remote desktops (Citrix, RDP, VDI)," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/7336156466-use-flow-with-remote-desktops-citrix-rdp-vdi, accessed Q2 2026.
 
-## Dictionary
+## Chapter 10: Dictionary
 
 1. "Teach Flow your words with the dictionary," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/4052411709-teach-flow-your-words-with-the-dictionary, accessed Q2 2026.
 2. "Teaching Flow Language-Specific Abbreviations and Acronyms," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/5052432796-copy-of-general-article, accessed Q2 2026.
 3. "Troubleshooting Guide for Snippets Pasting Only Part of the Text or Code," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/4816874402-troubleshooting-guide-for-snippets-pasting-only-part-of-the-text-or-code, accessed Q2 2026.
 
-## Snippets
+## Chapter 11: Snippets
 
 1. "Create and use snippets," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/5784437944-create-and-use-snippets, accessed Q2 2026.
 2. "Create and use snippets," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/5784437944-create-and-use-snippets, accessed Q2 2026.
@@ -100,43 +100,43 @@
 10. "Troubleshooting Guide for Snippets Pasting Only Part of the Text or Code," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/4816874402-troubleshooting-guide-for-snippets-pasting-only-part-of-the-text-or-code, accessed Q2 2026.
 11. "Create and use snippets," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/5784437944-create-and-use-snippets, accessed Q2 2026.
 
-## Styles and Bulk Setup
+## Chapter 12: Styles and Bulk Setup
 
 1. "How to setup Flow Styles," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/2368263928-how-to-setup-flow-styles, accessed Q2 2026.
 2. "How to Configure Polish Shortcuts and Custom Prompts," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/2719941210-how-to-configure-polish-shortcuts-and-custom-prompts, accessed Q2 2026.
 3. "How Do I Bulk Import Dictionary Items and Snippets," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/8955301725-how-do-i-bulk-import-for-dictionary-and-snippets, accessed Q2 2026.
 
-## Multilingual Dictation
+## Chapter 13: Multilingual Dictation
 
 1. "Use Flow with multiple languages," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/3191899797-use-flow-with-multiple-languages, accessed Q2 2026.
 2. "Flow is transcribing in the wrong language," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/5899191431-flow-is-transcribing-in-the-wrong-language, accessed Q2 2026.
 
-## Coding with Flow
+## Chapter 14: Coding with Flow
 
 1. "Variable Recognition," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/8554805225-variable-recognition, accessed Q2 2026.
 2. "File Tagging," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/9805771321-file-tagging, accessed Q2 2026.
 3. "Use Flow with Cursor, VS Code, and other IDEs," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/6434410694-use-flow-with-cursor-vs-code-and-other-ides, accessed Q2 2026.
 4. "Using Flow with Linux, WSL, and Terminal Applications," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/6478598909-using-flow-with-linux-wsl-and-terminal-applications, accessed Q2 2026.
 
-## Writing, Email, and Messaging
+## Chapter 15: Writing, Email, and Messaging
 
 1. "Route dictation directly to Slack, Email, or Calendar with keyboard shortcuts," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/5298382595-route-dictation-directly-to-slack-email-or-calendar-with-keyboard-shortcuts, accessed Q2 2026.
 2. "Use Flow with Microsoft Outlook," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/9272331366-use-flow-with-microsoft-outlook, accessed Q2 2026.
 3. "Dictating in Notification Reply Boxes and Browser Address Bars," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/5090227041-dictating-in-notification-reply-boxes-and-browser-address-bars, accessed Q2 2026.
 
-## Notes and Capture
+## Chapter 16: Notes and Capture
 
 1. "Using the Scratchpad to save and edit notes," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/9618237082-using-the-scratchpad-to-save-and-edit-notes, accessed Q2 2026.
 2. "Pinning notes in the Notes hub and Scratchpad sidebar," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/9879490397-pinning-notes-in-the-notes-hub-and-scratchpad-sidebar, accessed Q2 2026.
 3. "Using Notes in Wispr Flow for iOS," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/3529886556-using-notes-in-wispr-flow-for-ios, accessed Q2 2026.
 
-## Remote and Restricted Environments
+## Chapter 17: Remote and Restricted Environments
 
 1. "Use Flow with remote desktops (Citrix, RDP, VDI)," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/7336156466-use-flow-with-remote-desktops-citrix-rdp-vdi, accessed Q2 2026.
 2. "Banking App Detection Support in Wispr Flow," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/4909908692-banking-app-detection-support-in-wispr-flow, accessed Q2 2026.
 3. "Flow fails to detect text fields or inserts incorrectly on non-QWERTY keyboard layouts," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/1621472516-flow-fails-to-detect-text-fields-or-inserts-incorrectly-on-non-qwerty-keyboard-layouts, accessed Q2 2026.
 
-## Audio and Hardware
+## Chapter 18: Audio and Hardware
 
 1. "Connect and set up external audio devices," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/8884408990-connect-and-set-up-external-audio-devices, accessed Q2 2026.
 2. "Troubleshooting mic issues," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/4351452717-troubleshooting-mic-issues, accessed Q2 2026.
@@ -144,7 +144,7 @@
 4. "Why isn't Flow recording my voice?," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/2841416128-why-isn-t-flow-recording-my-voice, accessed Q2 2026.
 5. "Troubleshooting audio playback & AirPod issues (iOS, macOS)," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/8533503284-knwon-audio-playback-airpod-issues-ios-macos, accessed Q2 2026.
 
-## Plans, Billing, and Limits
+## Chapter 19: Plans, Billing, and Limits
 
 1. "Flow plans and what's included," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/9559327591-flow-plans-and-what-s-included, accessed Q2 2026.
 2. "Weekly Word Limit Not Resetting Troubleshooting Guide," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/3715544288-weekly-word-limit-not-resetting-troubleshooting-guide, accessed Q2 2026.
@@ -156,7 +156,7 @@
 8. "Trial End Value Summary in Wispr Flow," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/7140488640-trial-end-value-summary-in-wispr-flow, accessed Q2 2026.
 9. "Why Isn't My Student Pricing Reflecting on My Account," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/4261976771-why-isn-t-my-student-pricing-reflecting-on-my-account, accessed Q2 2026.
 
-## Sync, Account, and Devices
+## Chapter 20: Sync, Account, and Devices
 
 1. "Sync Flow across your devices," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/5284722493-sync-flow-across-your-devices, accessed Q2 2026.
 2. "Customize notification preferences by category," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/2250194357-customize-notification-preferences-by-category, accessed Q2 2026.
@@ -167,17 +167,17 @@
 7. "How Do I Reset My Wispr Flow Password," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/4934269962-how-do-i-reset-my-wispr-flow-password, accessed Q2 2026.
 8. "Email preferences and marketing opt-out," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/2225791263-email-preferences-and-marketing-opt-out, accessed Q2 2026.
 
-## Privacy, Security, and Your Data
+## Chapter 21: Privacy, Security, and Your Data
 
 1. "Security and compliance FAQ," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/3467817258-security-and-compliance-faq, accessed Q2 2026.
 2. "Context Awareness," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/4678293671-feature-context-awareness, accessed Q2 2026.
 3. "Delete transcripts and history in Wispr Flow," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/4465314211-delete-transcripts-and-history-in-wispr-flow, accessed Q2 2026.
 
-## Usage and Insights
+## Chapter 22: Usage and Insights
 
 1. "Your Usage tab: Track your dictation stats in Wispr Flow," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/8760230576-your-usage-tab-track-your-dictation-stats-in-wispr-flow, accessed Q2 2026.
 
-## Deploying Flow for Teams
+## Chapter 23: Deploying Flow for Teams
 
 1. "FAQs for Flow Pro team and Flow Enterprise plans," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/2458545840-faqs-for-flow-pro-team-and-flow-enterprise-plans, accessed Q2 2026.
 2. "How Do I Use the Admin Portal to Manage Users and Billing," Wispr Flow Help Center, https://docs.wisprflow.ai/articles/2277907847-how-do-i-use-the-admin-portal-to-manage-users-and-billing, accessed Q2 2026.

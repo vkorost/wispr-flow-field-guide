@@ -1,4 +1,4 @@
-# The Cleanup Engine
+# Chapter 7: The Cleanup Engine
 
 *In this chapter, you meet the control that governs how aggressively Flow rewrites your speech before it lands: Auto Cleanup. Four levels, from raw transcription to full polish, let you decide how much the rewrite pass changes your words. The chapter covers each level, the backtrack system for mid-dictation corrections, and the practical question of when to dial cleanup down.*
 

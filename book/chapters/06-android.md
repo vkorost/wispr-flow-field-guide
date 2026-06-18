@@ -1,4 +1,4 @@
-# Android
+# Chapter 6: Android
 
 *In this chapter: Flow on Android is a floating bubble, not a keyboard. The make-or-break setup involves three permissions and a battery exemption that varies by manufacturer, and the reward is a dictation surface that works inside any text field without switching input methods. This chapter covers installation, the bubble's behavior, customization, and the Android-specific constraints that shape the experience.*
 

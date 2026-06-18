@@ -1,4 +1,4 @@
-# Context Awareness
+# Chapter 9: Context Awareness
 
 *In this chapter, you will learn how Flow reads the active app on your screen and adjusts its output accordingly, a feature called Context Awareness. It covers how app categories shape tone and formatting, what permissions it requires on Mac versus Windows, and the privacy controls that govern what screen data Flow can see.*
 

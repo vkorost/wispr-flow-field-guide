@@ -1,4 +1,4 @@
-# Usage and Insights
+# Chapter 22: Usage and Insights
 
 *In this chapter: Flow tracks every word you dictate and turns that data into a personal dashboard of speed, streaks, and habits. The Usage tab shows you how you compare to keyboard typists, the Leaderboard ranks your team, and the Voice Profile builds a portrait of your dictation style. Knowing what Flow measures helps you use the numbers and decide what to share.*
 

@@ -1,4 +1,4 @@
-# Snippets
+# Chapter 11: Snippets
 
 *In this chapter, we look at snippets: saved text blocks that expand from a spoken trigger phrase. You will learn how to create them, what makes a trigger reliable versus fragile, where expansion breaks down across platforms, and how to keep your snippet library clean as it grows. Snippets are the closest Flow gets to programmable output, and using them well means fewer repetitive keystrokes for the text you type most.*
 

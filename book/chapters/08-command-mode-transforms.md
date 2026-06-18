@@ -1,4 +1,4 @@
-# Command Mode and Transforms
+# Chapter 8: Command Mode and Transforms
 
 *In this chapter: Flow does more than insert text. Command Mode and Transforms turn your voice into an editing tool, letting you rewrite, restructure, and polish selected text without touching the keyboard. Both features require a paid subscription, both run on Mac and Windows only (as of Q2 2026), and both shift Flow from a dictation engine to something closer to a voice-controlled text editor.*
 

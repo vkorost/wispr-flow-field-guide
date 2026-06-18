@@ -1,4 +1,4 @@
-# iPhone (iOS)
+# Chapter 5: iPhone (iOS)
 
 *In this chapter: Flow on the iPhone is not a system service; it is a keyboard extension you switch to, with the Action Button and Siri Shortcuts as the shortcuts around that friction. The setup, the gotchas, and the ways to make dictation feel native on iOS are what separate a frustrating first hour from a working workflow.*
 

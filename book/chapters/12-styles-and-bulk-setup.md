@@ -1,4 +1,4 @@
-# Styles and Bulk Setup
+# Chapter 12: Styles and Bulk Setup
 
 *In this chapter, we cover Flow's style system, which adjusts tone per app category, the Polish shortcuts that rewrite highlighted text on command, and the bulk import pipeline that loads dictionary words and snippets from files. Together these three surfaces form the configurable layer between your voice and Flow's output, and learning to set them up means the rewrite works for you instead of around you.*
 

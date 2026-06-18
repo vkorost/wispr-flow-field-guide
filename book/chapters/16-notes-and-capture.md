@@ -1,4 +1,4 @@
-# Notes and Capture
+# Chapter 16: Notes and Capture
 
 *In this chapter: Flow includes its own capture surface, The Scratchpad, a floating notepad on desktop and a full notes editor on iOS. Notes sync across signed-in devices, support images on desktop and markdown on iOS, and reach beyond the app through Siri Shortcuts, Lock Screen widgets, Spotlight indexing, and the Action Button. The chapter covers how the Scratchpad works on Mac and Windows, how iOS Notes differs, pinning and organization, HIPAA restrictions, and when the Scratchpad becomes a safety net for failed paste operations.*
 

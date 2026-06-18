@@ -1,4 +1,4 @@
-# Writing, Email, and Messaging
+# Chapter 15: Writing, Email, and Messaging
 
 *In this chapter: Flow does not require you to dictate into the app that has focus. Direct Routing lets you bind shortcuts that send dictation straight to Slack, email, or your calendar, while Flow also handles awkward insertion points like Outlook on iOS, Android notification reply boxes, and browser address bars. The chapter covers the shortcut system, Outlook across all four platforms, and the Android-only surfaces where the Flow Bubble reaches into places a keyboard normally owns.*
 

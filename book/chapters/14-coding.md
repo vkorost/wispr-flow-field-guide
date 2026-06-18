@@ -1,4 +1,4 @@
-# Coding with Flow
+# Chapter 14: Coding with Flow
 
 *In this chapter: Flow has a developer mode that reads your IDE to recognize symbols, tag files by voice, and handle the peculiarities of terminals and AI coding CLIs. The feature is called Vibe Coding, and its behavior varies sharply across editors, platforms, and input surfaces.*
 

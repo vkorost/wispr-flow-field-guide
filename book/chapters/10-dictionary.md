@@ -1,4 +1,4 @@
-# Dictionary
+# Chapter 10: Dictionary
 
 *In this chapter: Flow ships with a general vocabulary, but your world has specific names, acronyms, and terms it has never encountered. The Personal Lexicon is how you close that gap, teaching Flow the words that matter to your work and letting it correct the ones it consistently gets wrong.*
 

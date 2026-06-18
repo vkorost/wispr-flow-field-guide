@@ -1,4 +1,4 @@
-# Remote and Restricted Environments
+# Chapter 17: Remote and Restricted Environments
 
 *In this chapter: Flow inserts text by pasting from the local clipboard, which means anything that blocks or redirects the paste breaks the entire pipeline. Remote desktops, banking apps on Android, and non-standard keyboard layouts each create their own version of this wall. The chapter maps where the insertion boundary sits and what to do on each side of it.*
 

@@ -1,4 +1,4 @@
-# Plans, Billing, and Limits
+# Chapter 19: Plans, Billing, and Limits
 
 *In this chapter, you learn how Wispr Flow meters free usage through a weekly word budget, what the three plan tiers include, how billing and invoicing work across platforms, and where discounts, referrals, and trials fit. The goal is a clear map of what costs what, what resets when, and what unlocks at each tier.*
 

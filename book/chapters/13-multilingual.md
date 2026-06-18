@@ -1,4 +1,4 @@
-# Multilingual Dictation
+# Chapter 13: Multilingual Dictation
 
 *In this chapter: Flow supports over 100 languages but detects which one you are speaking once per session, not per word. The skill is choosing your languages deliberately, switching between sessions rather than mid-sentence, and knowing where the language boundary limits what Flow can do for you.*
 

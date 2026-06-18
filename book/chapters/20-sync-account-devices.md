@@ -1,4 +1,4 @@
-# Sync, Account, and Devices
+# Chapter 20: Sync, Account, and Devices
 
 *In this chapter: your Wispr Flow account is the thread that ties your devices together, carrying dictionary entries, snippets, styles, and subscription status across Mac, Windows, iPhone, and Android. Understanding what syncs, what stays local, and what vanishes on sign-out is how you keep your setup intact and avoid losing work.*
 

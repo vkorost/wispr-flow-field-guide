@@ -1,4 +1,4 @@
-# Audio and Hardware
+# Chapter 18: Audio and Hardware
 
 *In this chapter, you learn why Flow's output quality is bounded by its input quality: the microphone, its position, and its connection to the device form a chain where the weakest link determines accuracy. Choosing the right mic and configuring it correctly matters more than any software setting.*
 

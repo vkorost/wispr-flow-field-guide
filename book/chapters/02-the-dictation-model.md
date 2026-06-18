@@ -1,4 +1,4 @@
-# The Dictation Model
+# Chapter 2: The Dictation Model
 
 *In this chapter, we explore the physical act of starting and stopping Flow: the hotkey hold, the hands-free lock, and the whisper mode that lets you dictate in a shared office. Choosing the right trigger for the moment is a skill unto itself, one that determines whether Flow feels like an extension of your voice or a clumsy interruption.*
 
