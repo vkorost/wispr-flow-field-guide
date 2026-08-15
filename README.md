@@ -10,9 +10,11 @@ The editorial position is this: Flow is not a transcriber, it is a rewriter. A l
 
 ## Read the book
 
-- **EPUB** (for e-readers): [`book/Wispr_Flow.epub`](./book/Wispr_Flow.epub)
-- **PDF**: [`book/Wispr_Flow.pdf`](./book/Wispr_Flow.pdf)
+- **EPUB** (for e-readers): [download](https://github.com/vkorost/wispr-flow-field-guide/releases/latest/download/Wispr_Flow.epub)
+- **PDF**: [download](https://github.com/vkorost/wispr-flow-field-guide/releases/latest/download/Wispr_Flow.pdf)
 - **Per-chapter Markdown**: see the [Table of Contents](#table-of-contents) below.
+
+Both formats are attached to the [latest release](https://github.com/vkorost/wispr-flow-field-guide/releases/latest) and always point at the current revision.
 
 ## Why this exists
 
@@ -89,7 +91,7 @@ Each chapter cites the official help center documentation with direct URLs in th
 ## What's in this repo
 
 - `README.md`: this file.
-- `book/`: the compiled book as [`Wispr_Flow.epub`](./book/Wispr_Flow.epub) and [`Wispr_Flow.pdf`](./book/Wispr_Flow.pdf), plus the cover image.
+- `book/`: the cover image. The compiled EPUB and PDF are attached to the [latest release](https://github.com/vkorost/wispr-flow-field-guide/releases/latest) rather than committed here.
 - `book/chapters/`: the 24 chapters as individual Markdown files, plus the preface (`00-preface.md`) and the endnotes appendix (`99-appendix-g-endnotes.md`) with direct URLs to the Wispr Flow help center.
 - [`LICENSE`](./LICENSE): CC BY-NC-SA 4.0 for all content.
 
