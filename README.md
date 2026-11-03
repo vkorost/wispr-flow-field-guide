@@ -1,3 +1,5 @@
+[![Wispr Flow — The Complete Field Guide to Talking Instead of Typing](./book/wispr-flow-field-guide-social-800x400.jpg)](https://github.com/vkorost/wispr-flow-field-guide/releases/latest)
+
 # Wispr Flow: The Complete Field Guide to Talking Instead of Typing
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
